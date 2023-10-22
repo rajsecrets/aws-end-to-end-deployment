@@ -1,1 +1,1 @@
-# MLAWS-SagemakerProject
+# AWS-SagemakerDeployment
